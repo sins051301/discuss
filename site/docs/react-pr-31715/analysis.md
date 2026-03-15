@@ -1,9 +1,11 @@
 ---
-sidebar_label: "요약/분석"
-sidebar_position: 2
+sidebar_label: "react PR #31715"
+sidebar_position: 1
 ---
 
 # 요약 및 분석
+
+> **원문 PR**: https://github.com/facebook/react/pull/31715
 
 ## 한줄 요약
 

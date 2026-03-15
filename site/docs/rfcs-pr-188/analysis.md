@@ -1,9 +1,11 @@
 ---
-sidebar_label: "요약/분석"
-sidebar_position: 3
+sidebar_label: "rfcs PR #188"
+sidebar_position: 1
 ---
 
 # 요약 및 분석
+
+> **원문 PR**: https://github.com/reactjs/rfcs/pull/188
 
 ## 한줄 요약
 
