@@ -1,6 +1,6 @@
 ---
 sidebar_label: "요약/분석"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 요약 및 분석
